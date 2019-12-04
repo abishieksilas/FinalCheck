@@ -1,0 +1,15 @@
+.body-main th{
+	text-align: left;
+}
+.body-main td{
+	text-align: left;
+}
+.button{
+background-color:#004080;
+padding-top:5px;
+padding-bottom:15px;
+padding-left:35px;
+padding-right:35px;
+color:white;
+
+}
